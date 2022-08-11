@@ -24,5 +24,12 @@ In this section User may chose either his/her account as ***personal or business
 3. How you hear about us section: In this a dropdown or referrer opens from which an user can choose an option to select from.
 4. This is a textarea for user to provide his/her bio.
 
+
+# Images: -
+![Screenshot (275)](https://user-images.githubusercontent.com/78869626/184113745-d5935e25-b86d-4fca-8cc2-61581383b32c.png)
+![Screenshot (276)](https://user-images.githubusercontent.com/78869626/184113753-41e0edf8-681d-4082-baf0-2001efcaaef3.png)
+![Screenshot (277)](https://user-images.githubusercontent.com/78869626/184113761-ced61f21-cb3e-4e64-a044-157c266da0f1.png)
+
+
 **Note: You all can use this code just starred this git.**
 ## Hope you all like this project.
